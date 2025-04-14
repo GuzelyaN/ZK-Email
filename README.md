@@ -9,4 +9,4 @@ For your first task, we want you to go through the site and try out different th
 [13.04.2025 6:31]
 When you’re done, send all your findings here about things you noticed were broken or less easy to understand!
 
-###[Bug-reports](https://github.com/GuzelyaN/ZK-Email/tree/Overview/Bug-reports)
+### [Bug-reports](https://github.com/GuzelyaN/ZK-Email/tree/Overview/Bug-reports)
